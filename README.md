@@ -21,8 +21,7 @@ Project identifies color shades that are either frequently confused for differen
 In the future, this work could support the development of adaptive tools to improve color accessibility and visualization for colorblind users.
 
 ## Installation  
-To set up this project, follow these steps:  
-1. Clone the repository:  
+To set up this project - clone the repository:  
    ```bash  
    git clone https://github.com/your-username/unique-colors-colorblindness.git  
    ```  
