@@ -36,12 +36,12 @@ To set up this project - clone the repository:
 
 *- Unique confusion samples based on original color palettes for each type of colorblindness are detected.* 
 
-<img src="https://github.com/user-attachments/assets/2f22df3f-917e-436f-9a1f-fce90ed452b6" alt="Description of image" width="905"/>
+<img src="https://github.com/user-attachments/assets/2f22df3f-917e-436f-9a1f-fce90ed452b6" alt="Description of image" width="945"/>
 
-<img src="https://github.com/user-attachments/assets/720fd483-6ce4-4380-9256-1b2dea08daf9" alt="Description of image" width="220"/>
-<img src="https://github.com/user-attachments/assets/77591772-8579-4572-bec2-4ebbc2d9591c" alt="Description of image" width="218"/>
-<img src="https://github.com/user-attachments/assets/f705edc3-bfae-4677-84b3-5423bf32b3aa" alt="Description of image" width="233"/>
-<img src="https://github.com/user-attachments/assets/7130dd51-5242-48c3-bbaa-ed60b4ee0318" alt="Description of image" width="220"/>
+<img src="https://github.com/user-attachments/assets/720fd483-6ce4-4380-9256-1b2dea08daf9" alt="Description of image" width="230"/>
+<img src="https://github.com/user-attachments/assets/77591772-8579-4572-bec2-4ebbc2d9591c" alt="Description of image" width="228"/>
+<img src="https://github.com/user-attachments/assets/f705edc3-bfae-4677-84b3-5423bf32b3aa" alt="Description of image" width="243"/>
+<img src="https://github.com/user-attachments/assets/7130dd51-5242-48c3-bbaa-ed60b4ee0318" alt="Description of image" width="230"/>
 
 ## Contributing  
 Contributions are welcome! Please open an issue or submit a pull request with suggestions or improvements.  
