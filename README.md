@@ -37,8 +37,10 @@ To set up this project, follow these steps:
 ## Results  
 Optimized color palettes and confusion samples for each type of colorblindness are generated, providing visual differentiation and accessibility improvements.  
 ![image](https://github.com/user-attachments/assets/2f22df3f-917e-436f-9a1f-fce90ed452b6)
+
 ![image](https://github.com/user-attachments/assets/5576ed32-26c9-4caa-9556-5b6bceca0109)
-![image](https://github.com/user-attachments/assets/fb7422dd-c550-45f9-9aa2-7cf785c3b409)
+![image](https://github.com/user-attachments/assets/77591772-8579-4572-bec2-4ebbc2d9591c)
+
 ![image](https://github.com/user-attachments/assets/f705edc3-bfae-4677-84b3-5423bf32b3aa)
 ![image](https://github.com/user-attachments/assets/7130dd51-5242-48c3-bbaa-ed60b4ee0318)
 
