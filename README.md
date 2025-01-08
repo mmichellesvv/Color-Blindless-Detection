@@ -17,8 +17,7 @@ Key components include:
 
 ## Introduction  
 Colorblindness affects how individuals perceive colors, making it difficult to distinguish between certain shades.
-Project identifies color shades that are either frequently confused for different types of colorblindness. These findings provide a foundation for designing diagnostic tests aimed at evaluating color vision deficiencies.
-In the future, this work could *support the development of adaptive tools to improve color accessibility and visualization for colorblind users*.
+Project identifies color shades that are either frequently confused for different types of colorblindness. These findings provide *a foundation for designing diagnostic tests aimed at evaluating color vision deficiencies*.
 
 ## Installation  
 To set up this project - clone the repository:  
