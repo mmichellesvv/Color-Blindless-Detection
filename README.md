@@ -11,14 +11,13 @@ Key components include:
 ## Table of Contents  
 1. [Introduction](#introduction)  
 2. [Installation](#installation)  
-3. [Usage](#usage)  
-4. [Methodology](#methodology)  
-   - 4.1 [Dataset Generation](#dataset-generation)  
-   - 4.2 [Simulating Colorblindness](#simulating-colorblindness)  
-   - 4.3 [Clustering and Optimization](#clustering-and-optimization)  
-5. [Results](#results)  
-6. [Contributing](#contributing)  
-7. [License](#license)  
+3. [Methodology](#methodology)  
+   - 3.1 [Dataset Generation](#dataset-generation)  
+   - 3.2 [Simulating Colorblindness](#simulating-colorblindness)  
+   - 3.3 [Clustering and Optimization](#clustering-and-optimization)  
+4. [Results](#results)  
+5. [Contributing](#contributing)  
+6. [License](#license)  
 
 ## Introduction  
 Colorblindness affects how individuals perceive colors, making it difficult to distinguish between certain shades. This project aims to improve color accessibility by detecting and optimizing unique shades for different types of colorblindness.  
@@ -29,37 +28,19 @@ To set up this project, follow these steps:
    ```bash  
    git clone https://github.com/your-username/unique-colors-colorblindness.git  
    ```  
-2. Install the required Python libraries:  
-   ```bash  
-   pip install -r requirements.txt  
-   ```  
-
-## Usage  
-1. Run the dataset generation and simulation script:  
-   ```bash  
-   python simulate_colors.py  
-   ```  
-2. Perform clustering and optimization:  
-   ```bash  
-   python optimize_colors.py  
-   ```  
-3. Visualize results:  
-   ```bash  
-   python visualize_results.py  
-   ```  
 
 ## Methodology  
 
 ### 4.1 Dataset Generation  
-- Generate a base set of RGB colors using clustering (K-Means).  
+- Generate a base set of RGB colors.  
 - Convert colors to LAB format for further analysis.  
 
 ### 4.2 Simulating Colorblindness  
 - Apply filters for different types of colorblindness (protanopia, deuteranopia, tritanopia, monochromacy).  
 
 ### 4.3 Clustering and Optimization  
-- Group transformed colors using DBSCAN clustering.  
-- Select unique shades using RGB and LAB variance metrics.  
+- Group transformed colors using clustering.  
+- Select unique shades using variance metrics.  
 
 ## Results  
 Optimized color palettes and confusion samples for each type of colorblindness are generated, providing visual differentiation and accessibility improvements.  
