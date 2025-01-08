@@ -1,7 +1,6 @@
 # Unique Colors for Colorblindness Detection  
 
-## Abstract  
-This project focuses on simulating color perception for different types of colorblindness (protanopia, deuteranopia, tritanopia, and monochromacy) and identifying unique color shades that minimize confusion.  
+Project focuses on simulating color perception for different types of colorblindness (protanopia, deuteranopia, tritanopia, and monochromacy) and identifying unique color shades that minimize confusion.  
 
 Key components include:  
 1. **Dataset** – Generating a base color set and simulating color vision deficiencies.  
@@ -20,7 +19,9 @@ Key components include:
 6. [License](#license)  
 
 ## Introduction  
-Colorblindness affects how individuals perceive colors, making it difficult to distinguish between certain shades. This project aims to improve color accessibility by detecting and optimizing unique shades for different types of colorblindness.  
+Colorblindness affects how individuals perceive colors, making it difficult to distinguish between certain shades.
+Project identifies color shades that are either frequently confused for different types of colorblindness. These findings provide a foundation for designing diagnostic tests aimed at evaluating color vision deficiencies.
+In the future, this work could support the development of adaptive tools to improve color accessibility and visualization for colorblind users.
 
 ## Installation  
 To set up this project, follow these steps:  
