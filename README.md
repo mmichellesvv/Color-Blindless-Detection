@@ -11,9 +11,6 @@ Key components include:
 1. [Introduction](#introduction)  
 2. [Installation](#installation)  
 3. [Methodology](#methodology)  
-   - 3.1 [Dataset Generation](#dataset-generation)  
-   - 3.2 [Simulating Colorblindness](#simulating-colorblindness)  
-   - 3.3 [Clustering and Optimization](#clustering-and-optimization)  
 4. [Results](#results)  
 5. [Contributing](#contributing)  
 6. [License](#license)  
@@ -31,20 +28,19 @@ To set up this project, follow these steps:
    ```  
 
 ## Methodology  
-
-### 4.1 Dataset Generation  
 - Generate a base set of RGB colors.  
 - Convert colors to LAB format for further analysis.  
-
-### 4.2 Simulating Colorblindness  
 - Apply filters for different types of colorblindness (protanopia, deuteranopia, tritanopia, monochromacy).  
-
-### 4.3 Clustering and Optimization  
 - Group transformed colors using clustering.  
 - Select unique shades using variance metrics.  
 
 ## Results  
 Optimized color palettes and confusion samples for each type of colorblindness are generated, providing visual differentiation and accessibility improvements.  
+![image](https://github.com/user-attachments/assets/2f22df3f-917e-436f-9a1f-fce90ed452b6)
+![image](https://github.com/user-attachments/assets/5576ed32-26c9-4caa-9556-5b6bceca0109)
+![image](https://github.com/user-attachments/assets/fb7422dd-c550-45f9-9aa2-7cf785c3b409)
+![image](https://github.com/user-attachments/assets/f705edc3-bfae-4677-84b3-5423bf32b3aa)
+![image](https://github.com/user-attachments/assets/7130dd51-5242-48c3-bbaa-ed60b4ee0318)
 
 ## Contributing  
 Contributions are welcome! Please open an issue or submit a pull request with suggestions or improvements.  
