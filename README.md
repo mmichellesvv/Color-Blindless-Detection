@@ -35,9 +35,7 @@ To set up this project - clone the repository:
 ## Results  
 
 *- Unique confusion samples based on original color palettes for each type of colorblindness are detected.* 
-
 <img src="https://github.com/user-attachments/assets/2f22df3f-917e-436f-9a1f-fce90ed452b6" alt="Description of image" width="985"/>
-
 
 <img src="https://github.com/user-attachments/assets/720fd483-6ce4-4380-9256-1b2dea08daf9" alt="Description of image" width="240"/>
 <img src="https://github.com/user-attachments/assets/77591772-8579-4572-bec2-4ebbc2d9591c" alt="Description of image" width="238"/>
