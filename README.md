@@ -35,7 +35,7 @@ To set up this project, follow these steps:
 - Select unique shades using variance metrics.  
 
 ## Results  
-Optimized color palettes and confusion samples for each type of colorblindness are generated, providing visual differentiation and accessibility improvements.  
+*Unique confusion samples based on original color palettes for each type of colorblindness are detected.* 
 
 <img src="https://github.com/user-attachments/assets/2f22df3f-917e-436f-9a1f-fce90ed452b6" alt="Description of image" width="985"/>
 
