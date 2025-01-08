@@ -22,7 +22,7 @@ Project identifies color shades that are either frequently confused for differen
 ## Installation  
 To set up this project - clone the repository:  
    ```bash  
-   git clone https://github.com/your-username/unique-colors-colorblindness.git  
+   git clone [https://github.com/your-username/unique-colors-colorblindness.git](https://github.com/mmichellesvv/Color-Blindless-Detection.git) 
    ```  
 
 ## Methodology  
