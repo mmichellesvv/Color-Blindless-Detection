@@ -48,7 +48,3 @@ Contributions are welcome! Please open an issue or submit a pull request with su
 
 ## License  
 This project is licensed under the [MIT License](LICENSE).  
-
----  
-
-Feel free to adjust based on specific features or updates!
