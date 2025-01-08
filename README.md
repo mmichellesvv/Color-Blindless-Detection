@@ -43,6 +43,7 @@ Optimized color palettes and confusion samples for each type of colorblindness a
 ![image](https://github.com/user-attachments/assets/77591772-8579-4572-bec2-4ebbc2d9591c)
 
 ![image](https://github.com/user-attachments/assets/f705edc3-bfae-4677-84b3-5423bf32b3aa)
+
 ![image](https://github.com/user-attachments/assets/7130dd51-5242-48c3-bbaa-ed60b4ee0318)
 
 ## Contributing  
